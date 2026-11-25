@@ -1,0 +1,12 @@
+langgraph
+langchain-google-genai
+python-dotenv
+langchain-core
+streamlit
+langgraph-checkpoint-sqlite==3.1.0
+Tavily-python
+langchain_tavily
+langchain-text-splitters
+langchain-community
+pypdf
+faiss-cpu
